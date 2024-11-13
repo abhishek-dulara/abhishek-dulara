@@ -23,14 +23,23 @@
 ---
 
 ### My Projects 💻
-- 🌐 [Colorful Registration Form](https://github.com/yourusername/registerform): A dynamic and stylish registration form using HTML & PHP
-- 💼 [E-commerce Website](https://github.com/yourusername/ecommerce-website): A vibrant e-commerce website built with HTML, CSS, and JavaScript
 
----
+- 🎨 [**My Portfolio Website**](https://abhishek-dulara.github.io/xxx) - Showcasing my projects and skills.
+- 🔄 [**Palindrome Checker**](https://abhishek-dulara.github.io/palindromchecker) - A tool to check if a word or phrase is a palindrome.
+- 🧮 [**Calculator**](https://abhishek-dulara.github.io/Calculator-ios-/) - A simple calculator inspired by iOS design.
+- 🚗 [**Tesla Web Page (demo)**](https://github.com/abhishek-dulara/tesla) - A demo web page inspired by Tesla's design.
+- 🎮 [**Super Mario (2D Game)**](https://github.com/abhishek-dulara/super_mario) - A fun 2D game inspired by Super Mario.
 
-### Connect with Me 📫
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhishekdulara)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)
+----
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.facebook.com/dulara.abhishek.7"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://wa.me/+94768861019"><img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/dulara_abhishek"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/dulara-abhishek-405365137/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://abhishek-dulara.github.io/xxx"><img src="https://img.shields.io/badge/-My%20Website-000000?logo=google-chrome&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
