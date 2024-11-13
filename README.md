@@ -17,8 +17,9 @@
 
 - 🎓 Pursuing **Bachelor in ICT** at **Rajarata University**
 - 🏠 Based in **Kuliyapitiya**
-- 💻 Focused on **e-commerce website development** and **dynamic registration forms**
-- ✍️ Exploring **React** and **Bootstrap** with **Vite** for front-end projects
+- 💻 Focused on **Frontend Development** and **Backend Development**
+- ✍️ Exploring **HTML**, **CSS**, **JavaScript**, and **React** with **Vite** for front-end projects!
+
 
 ---
 
