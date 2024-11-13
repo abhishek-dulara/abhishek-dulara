@@ -27,8 +27,8 @@
 - 🎨 [**My Portfolio Website**](https://abhishek-dulara.github.io/xxx) - Showcasing my projects and skills.
 - 🔄 [**Palindrome Checker**](https://abhishek-dulara.github.io/palindromchecker) - A tool to check if a word or phrase is a palindrome.
 - 🧮 [**Calculator**](https://abhishek-dulara.github.io/Calculator-ios-/) - A simple calculator inspired by iOS design.
-- 🚗 [**Tesla Web Page (demo)**](https://github.com/abhishek-dulara/tesla) - A demo web page inspired by Tesla's design.
-- 🎮 [**Super Mario (2D Game)**](https://github.com/abhishek-dulara/super_mario) - A fun 2D game inspired by Super Mario.
+- 🚗 [**Tesla Web Page (demo)**](https://abhishek-dulara.github.io/tesla/) - A demo web page inspired by Tesla's design.
+- 🎮 [**Super Mario (2D Game)**](https://abhishek-dulara.github.io/super_mario/) - A fun 2D game inspired by Super Mario.
 
 ----
 
