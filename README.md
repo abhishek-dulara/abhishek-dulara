@@ -39,7 +39,7 @@
   <a href="https://wa.me/+94768861019"><img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.instagram.com/dulara_abhishek"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/dulara-abhishek-405365137/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://abhishek-dulara.github.io/xxx"><img src="https://img.shields.io/badge/-My%20Website-000000?logo=google-chrome&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://my-portfolio-v2-phi-pearl.vercel.app/"><img src="https://img.shields.io/badge/-My%20Website-000000?logo=google-chrome&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
