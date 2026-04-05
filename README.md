@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dulara</h1>
-![GitHub for Beginners Badge](https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png)
+<p align="center">
+  <img src="https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png" width="300" alt="GitHub for Beginners Badge">
+</p>
 <h3 align="center">An ICT student with a passion for coding, mathematics, and problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdulara&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdulara" /> </p>
